@@ -1,11 +1,13 @@
 #include <stdio.h>
 
 int main(void){
-    int i;
-    printf("Hello World!!\n");
-    printf("Hello Ryosuke!!\n");
-    printf("I'm Ryosuke\n");
-    printf("Fukuoka prefectere\n");
+    int x, y, z;
+    float price;
+    printf("Welcome to C Programming!\n");
+    x = 20;
+    y = 2 * x;
+    z = x + y;
+    printf()
     for(i=1;i<11;i++){
         printf("%d\n", i);
     }
